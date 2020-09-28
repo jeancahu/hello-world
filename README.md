@@ -20,8 +20,11 @@ Press alt to define the indentation.
 ### Italics:
 Enclose between asterisks (\*text\*) or between underscores (\_text\_).
 
+### Strong Text:
+Enclose between two asterisks (\*\*text\*\*) or between two underscores (\_\_text\_\_).
+
 ## Testing
-Segment where tests of what has been learned are carried out.
+The segment where tests of what has been learned are carried out.
 
 ### Heading Testing:
 <!--begin Headings Testing-->
@@ -48,3 +51,10 @@ no alt
 
 (\_text\_) = _text in italic between underscores_
 <!--end Italics Testing-->
+
+<!--begin Strong Text Testing-->
+### Strong:
+(\*\*text\*\*) = **Strong text between two asterisks**
+
+(\_\_text\_\_) = __Strong text between two underscores__
+<!--end Strong Text Testing-->
