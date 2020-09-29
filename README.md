@@ -4,8 +4,11 @@
 # Hello world
 A newbie's first markdown readme <!--Simple Text-->
 
+
+
 <!--Headings/Subtitles -->
 ## Markdown Basics
+---
 Part where I'm learning the markdown basics.
 
 .
@@ -39,13 +42,17 @@ Enclose between two pairs of asterisks (\*\*text\*\*) or between two pairs of un
 Enclose between two pairs of tildes (\~\~text\~\~).
 
 .
-
-\---------------------------o------------------------------
+### Horizontal Rule:
+Use triple underscores (\_\_\_) or triple hyphen (\-\-\-).
 
 .
 
+---
+___
+
 
 ## Testing
+---
 The segment where tests of what has been learned are carried out.
 
 .
@@ -93,5 +100,17 @@ no alt
 <!--begin Strikethrough Testing-->
 ### Strikethrough:
 (\~\~text\~\~) = ~~Strikethrough text between two asterisks~~
-
 <!--end Strikethrough Testing-->
+
+.
+<!--begin Horizontal Rule Testing-->
+### Horizontal Rule:
+(\-\-\-) = 
+
+---
+(\_\_\_) =
+
+___
+<!--end Horizontal Rule Testing-->
+
+.
