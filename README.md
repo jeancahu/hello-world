@@ -53,6 +53,7 @@ Use the greater than symbol (\>) before the text.
 .
 ### Links:
 Enclose the description text of the link between brackets (\[\]) and next to it, the url between parenthesis (\(\)).
+To add an url title, put the title enclosed by quotes marks (\(Url\) \"Url Title\").
 
 .
 
@@ -108,7 +109,7 @@ no alt
 
 <!--begin Strikethrough Testing-->
 ### Strikethrough:
-(\~\~text\~\~) = ~~Strikethrough text between two asterisks~~
+(\~\~text\~\~) = ~~Strikethrough text between a pair of tildes~~
 <!--end Strikethrough Testing-->
 
 .
@@ -135,6 +136,11 @@ ___
 
 <!--begin Links Testing-->
 ### Links:
-\[Link Descrption\] \(URL\)=
+\[Link Descrption\] \(URL\) without url title=
 [Joji - Tick Tock](https://www.youtube.com/watch?v=2FCo7OxVoeY&list=PLzjD-HnzMfXLVK_7xjVvu6MY590ioHqyS&index=3&ab_channel=Joji)
+
+\[Link Descrption\] \(URL\) with url title=
+[Joji - Tick Tock](https://www.youtube.com/watch?v=2FCo7OxVoeY&list=PLzjD-HnzMfXLVK_7xjVvu6MY590ioHqyS&index=3&ab_channel=Joji "Joji - Tick Tock")
+
+*Put the cursor over the url's.
 <!--end Links Testing-->
