@@ -51,6 +51,10 @@ Use triple underscores (\_\_\_) or triple hyphen (\-\-\-).
 Use the greater than symbol (\>) before the text.
 
 .
+### Links:
+Enclose the description text of the link between brackets (\[\]) and next to it, the url between parenthesis (\(\)).
+
+.
 
 ---
 ___
@@ -108,6 +112,7 @@ no alt
 <!--end Strikethrough Testing-->
 
 .
+
 <!--begin Horizontal Rule Testing-->
 ### Horizontal Rule:
 (\-\-\-) = 
@@ -116,6 +121,8 @@ no alt
 (\_\_\_) =
 
 ___
+.
+
 <!--end Horizontal Rule Testing-->
 
 <!--begin Blockquote Testing-->
@@ -123,3 +130,11 @@ ___
 (\>This is a quote.)=
 > This is a quote. 
 <!--end Blockquote Testing-->
+
+.
+
+<!--begin Links Testing-->
+### Links:
+\[Link Descrption\] \(URL\)=
+[Joji - Tick Tock](https://www.youtube.com/watch?v=2FCo7OxVoeY&list=PLzjD-HnzMfXLVK_7xjVvu6MY590ioHqyS&index=3&ab_channel=Joji)
+<!--end Links Testing-->
