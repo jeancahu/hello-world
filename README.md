@@ -47,6 +47,11 @@ Use triple underscores (\_\_\_) or triple hyphen (\-\-\-).
 
 .
 
+### Blockquote:
+Use the greater than symbol (\>) before the text.
+
+.
+
 ---
 ___
 
@@ -113,4 +118,8 @@ no alt
 ___
 <!--end Horizontal Rule Testing-->
 
-.
+<!--begin Blockquote Testing-->
+### Blockquote:
+(\>This is a quote.)=
+> This is a quote. 
+<!--end Blockquote Testing-->
