@@ -23,8 +23,8 @@ Use a different amount of #'s.
 
 .
 ### Block Text:
-Press alt to define the indentation.
-<!--Press alt to make block text-->
+Press tab to define the indentation.
+<!--Press tab to make block text-->
 
          Block text 
          still block comment
@@ -63,7 +63,7 @@ To add an url title, put the title enclosed by quotes marks (\(Url\) \"Url Title
 .
 
 ### Unordered List:
-Use an asterisk (\*) for each item.
+Use an asterisk (\*) for each item. To do **nested items** use tab and then use the asterisk.
 
 .
 
@@ -88,12 +88,12 @@ The segment where tests of what has been learned are carried out.
 <!--begin Block text Testing-->
 ### Block Text Texting:
 
-no alt
+no tab
 
-    1 alt
-        2 alt
-            3 alt
-                4 alt
+    1 tab
+        2 tab
+            3 tab
+                4 tab
 <!--end Block text Testing-->
 
 .
@@ -159,12 +159,17 @@ ___
 
 <!--begin Unordered List Testing-->
 ### Unordered List:
-\* First Item=
-* First Item
+\* Item=
+ * Item
+
+    * tab + \* Nested Item 1
+        * tab + tab + \* Nested Item 2
+            * tab + tab + tab + \* Nested Item 3
 
 \* Second Item=
 * Second Item
 
 \* Third Item =
 * Third Item
+
 <!--end Unordered List Testing-->
