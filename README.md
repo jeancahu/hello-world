@@ -67,6 +67,11 @@ Use an asterisk (\*) for each item. To do **nested items** use tab and then use 
 
 .
 
+### Ordered List:
+Put 1\. before each element of the list.
+
+.
+
 ---
 ___
 
@@ -173,3 +178,20 @@ ___
 * Third Item
 
 <!--end Unordered List Testing-->
+
+.
+
+<!--begin Ordered List Testing-->
+### Ordered List:
+(1\. First ordered item
+
+1\. Second ordered item
+
+1\. Third ordered item)=
+
+1. First ordered item
+
+1. Second ordered item
+
+1. Third ordered item
+<!--end Ordered List Testing-->
