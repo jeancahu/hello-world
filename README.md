@@ -1,4 +1,9 @@
-<!--Comment this way-->
+
+### Links:
+Enclose the description text of the link between brackets (\[\]) and next to it, the url between parenthesis (\(\)).
+To add an url title, put the title enclosed by quotes marks (\(Url\) \"Url Title\").
+
+.<!--Comment this way-->
 <!--Define titles & subtitles with an amount of #'s-->
 <!-- Title -->
 # Hello world
@@ -54,6 +59,11 @@ Use the greater than symbol (\>) before the text.
 ### Links:
 Enclose the description text of the link between brackets (\[\]) and next to it, the url between parenthesis (\(\)).
 To add an url title, put the title enclosed by quotes marks (\(Url\) \"Url Title\").
+
+.
+
+### Unordered List:
+Use an asterisk (\*) for each item.
 
 .
 
@@ -144,3 +154,17 @@ ___
 
 *Put the cursor over the url's.
 <!--end Links Testing-->
+
+.
+
+<!--begin Unordered List Testing-->
+### Unordered List:
+\* First Item=
+* First Item
+
+\* Second Item=
+* Second Item
+
+\* Third Item =
+* Third Item
+<!--end Unordered List Testing-->
