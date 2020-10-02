@@ -58,6 +58,7 @@ Use the greater than symbol (\>) before the text.
 .
 ### Links:
 Enclose the description text of the link between brackets (\[\]) and next to it, the url between parenthesis (\(\)).
+
 To add an url title, put the title enclosed by quotes marks (\(Url\) \"Url Title\").
 
 .
@@ -74,6 +75,11 @@ Put 1\. before each element of the list.
 
 ### Inline Code Block:
 Enclose the code between two acutes/backquotes (\`).
+
+.
+
+### Images:
+Put an exclamation symbol (\!), enclose the description text of the image between brackets (\[\]) and next to it, the url of the image between parenthesis (\(\)).
 
 .
 
@@ -208,5 +214,14 @@ ___
 \` <\p>This is code.<\/p>\` =
 
 `<p> This is code </p>`
-<!--end Inline Code Block Testing-->
+<!--end Inline Code Block Testing-->.
+
+.
+
+<!--begin Images Testing-->
+### Images:
+\!\[My avatar pic\]\(https://avatars2.githubusercontent.com/u/16785324?s=460&v=4\) =
+
+![My avatar pic](https://avatars2.githubusercontent.com/u/16785324?s=460&v=4)
+<!--end Images Testing-->
 
