@@ -1,9 +1,4 @@
-
-### Links:
-Enclose the description text of the link between brackets (\[\]) and next to it, the url between parenthesis (\(\)).
-To add an url title, put the title enclosed by quotes marks (\(Url\) \"Url Title\").
-
-.<!--Comment this way-->
+<!--Comment this way-->
 <!--Define titles & subtitles with an amount of #'s-->
 <!-- Title -->
 # Hello world
