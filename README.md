@@ -214,7 +214,7 @@ ___
 \` <\p>This is code.<\/p>\` =
 
 `<p> This is code </p>`
-<!--end Inline Code Block Testing-->.
+<!--end Inline Code Block Testing-->
 
 .
 
