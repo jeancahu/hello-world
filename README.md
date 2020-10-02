@@ -72,6 +72,11 @@ Put 1\. before each element of the list.
 
 .
 
+### Inline Code Block:
+Enclose the code between two acutes/backquotes (\`).
+
+.
+
 ---
 ___
 
@@ -195,3 +200,13 @@ ___
 
 1. Third ordered item
 <!--end Ordered List Testing-->
+
+.
+
+<!--begin Inline Code Block Testing-->
+### Inline Code Block:
+\` <\p>This is code.<\/p>\` =
+
+`<p> This is code </p>`
+<!--end Inline Code Block Testing-->
+
