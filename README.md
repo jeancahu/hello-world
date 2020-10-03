@@ -305,3 +305,12 @@ return num1 + num2
      return num1 + num2
 ```
 <!--end Code Blocks Github-->
+
+<!--begin Github Tables-->
+### Tables:
+| Person    | Birthday    |
+| --------- | ----------- |
+| Person 1  | MM-DD-YY    |
+|Person 2   | MM-DD-YY    |
+
+<!--end Github Tables-->
