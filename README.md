@@ -220,3 +220,72 @@ ___
 ![My avatar pic](https://avatars2.githubusercontent.com/u/16785324?s=460&v=4)
 <!--end Images Testing-->
 
+.
+
+---
+___
+
+
+## Github Flavored Markdown
+---
+
+The segment of github's markdown syntax.
+=
+
+<!--begin Code Blocks Github-->
+### Code Blocks:
+
+Use triple acutes/backquotes (\`) in the lines before and after the code. Specify the syntax after the first backquotes in the same line.
+
+\`\`\`bash
+
+npm install
+
+npm start
+
+\`\`\`
+
+=
+```bash
+npm install
+npm start
+```
+
+\`\`\`javascript
+
+function add(num1, num2){
+
+return num1 + num2;
+
+}
+
+\`\`\`
+
+=
+
+```javascript
+function add(num1, num2) {
+    return num1 + num2;
+    }
+```
+
+Test without specyfing the syntax: 
+
+\`\`\`
+
+function add(num1, num2){
+
+return num1 + num2;
+
+}
+
+\`\`\`
+
+=
+
+```
+function add(num1, num2) {
+    return num1 + num2;
+    }
+```
+<!--end Code Blocks Github-->
