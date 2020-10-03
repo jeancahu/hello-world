@@ -264,9 +264,9 @@ return num1 + num2;
 =
 
 ```javascript
-function add(num1, num2) {
-    return num1 + num2;
-    }
+    function add(num1, num2) {
+     return num1 + num2;
+     }
 ```
 
 Test without specyfing the syntax: 
@@ -284,8 +284,24 @@ return num1 + num2;
 =
 
 ```
-function add(num1, num2) {
-    return num1 + num2;
-    }
+    function add(num1, num2) {
+        return num1 + num2;
+        }
+```
+
+
+\`\`\`python
+
+def add(num1, num2):
+
+return num1 + num2
+
+\`\`\`
+
+=
+
+```python
+    def add(num1, num2):
+     return num1 + num2
 ```
 <!--end Code Blocks Github-->
