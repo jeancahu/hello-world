@@ -308,6 +308,18 @@ return num1 + num2
 
 <!--begin Github Tables-->
 ### Tables:
+Do tables in this way:
+
+\| Person    \| Birthday  \|
+
+\| --------- \| ----------- \|
+
+\| Person 1  \| MM-DD-YY    \|
+
+\|Person 2   \| MM-DD-YY    \|
+
+=
+
 | Person    | Birthday    |
 | --------- | ----------- |
 | Person 1  | MM-DD-YY    |
