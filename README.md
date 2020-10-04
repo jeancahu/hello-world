@@ -3,13 +3,14 @@
 <!-- Title -->
 # Hello world
 A newbie's first markdown readme <!--Simple Text-->
-
+=
 
 
 <!--Headings/Subtitles -->
 ## Markdown Basics
 ---
 Part where I'm learning the markdown basics.
+=
 
 .
 
@@ -85,6 +86,7 @@ ___
 ## Testing
 ---
 The segment where tests of what has been learned are carried out.
+=
 
 .
 
@@ -237,6 +239,9 @@ The segment of github's markdown syntax.
 
 Use triple acutes/backquotes (\`) in the lines before and after the code. Specify the syntax after the first backquotes in the same line.
 
+.
+
+
 \`\`\`bash
 
 npm install
@@ -308,6 +313,9 @@ return num1 + num2
 
 <!--begin Github Tables-->
 ### Tables:
+
+.
+
 Do tables in this way:
 
 \| Person    \| Birthday  \|
@@ -326,3 +334,28 @@ Do tables in this way:
 |Person 2   | MM-DD-YY    |
 
 <!--end Github Tables-->
+
+.
+
+<!--begin Github Task List-->
+### Task List:
+Do it like an unordered list and use parentheses (()) or brackets (\[\]) to show the task state.
+
+\* [ ] Task 1
+
+tab \* [X] Task 1.1
+
+tab \* [ ] Task 1.2
+
+\* [X] Task 2
+
+=
+
+* [ ] Task 1
+    * [X] Task 1.1
+    * [ ] Task 1.2
+* [X] Task 2
+
+<!--end Github Task List-->
+
+.
