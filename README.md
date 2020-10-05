@@ -379,5 +379,14 @@ Github supports the use of emojis. Check:
 
 .
 
+<!--begin Github Username @Mentions-->
+### Username @Mentions:
+Type \@ followed by the Username to notify this person to come and view the comment. It also applies to teams in organizations.
+
+@jeancahu :3 \<3
+<!--end Github Username @Mentions-->
+
+.
+
 ---
 ___
