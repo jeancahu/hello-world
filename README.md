@@ -159,10 +159,10 @@ ___
 
 <!--begin Links Testing-->
 ### Links:
-\[Link Descrption\] \(URL\) without url title=
+\[Link Descrption\]\(URL\) without url title=
 [Joji - Tick Tock](https://www.youtube.com/watch?v=2FCo7OxVoeY&list=PLzjD-HnzMfXLVK_7xjVvu6MY590ioHqyS&index=3&ab_channel=Joji)
 
-\[Link Descrption\] \(URL\) with url title=
+\[Link Descrption\]\(URL \"URL Title\"\) with url title=
 [Joji - Tick Tock](https://www.youtube.com/watch?v=2FCo7OxVoeY&list=PLzjD-HnzMfXLVK_7xjVvu6MY590ioHqyS&index=3&ab_channel=Joji "Joji - Tick Tock")
 
 *Put the cursor over the url's.
@@ -360,12 +360,22 @@ tab \* [ ] Task 1.2
 
 .
 
+<!--begin Github Emoji-->
+### Emoji:
+Github supports the use of emojis. Check: 
+
+[Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/ "Emoji Cheat Sheet")
+
+\:bowtie\: = :bowtie:
+
+\:eyes\: = :eyes:
+
+\:panda\_face\: = :panda_face:
+
+\:pencil2\: = :pencil2:
+<!--end Github Emoji-->
+
+.
+
 ---
 ___
-
-
-## Markdown to html
----
-
-You can transform the markdown code to html in a converter online.
-=
