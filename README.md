@@ -366,13 +366,15 @@ Github supports the use of emojis. Check:
 
 [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/ "Emoji Cheat Sheet")
 
-\:bowtie\: = :bowtie:
+\: bowtie \: = :bowtie:
 
-\:eyes\: = :eyes:
+\: eyes \: = :eyes:
 
-\:panda\_face\: = :panda_face:
+\: panda\_face \: = :panda_face:
 
-\:pencil2\: = :pencil2:
+\: pencil2 \: = :pencil2:
+
+*Without spaces.
 <!--end Github Emoji-->
 
 .
